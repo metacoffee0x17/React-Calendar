@@ -2,15 +2,6 @@
 <img src="https://raw.githubusercontent.com/clauderic/react-infinite-calendar/master/.github/logo.png" width="180"/>
 </div>
 
-# React Infinite Calendar
-**Currently looking for maintainers to help maintain this project, please reach out if you would be interested**
-
-[![npm version](https://img.shields.io/npm/v/react-infinite-calendar.svg)](https://www.npmjs.com/package/react-infinite-calendar)
-[![downloads](https://img.shields.io/npm/dm/react-infinite-calendar.svg)](https://www.npmjs.com/package/react-infinite-calendar)
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/clauderic/react-infinite-calendar/blob/master/LICENSE)
-[![Gitter](https://badges.gitter.im/clauderic/react-infinite-calendar.svg)](https://gitter.im/clauderic/react-infinite-calendar)
-### Examples available here: <a href="#">http://clauderic.github.io/react-infinite-calendar/</a>
-
 Features
 ---------------
 
@@ -130,17 +121,3 @@ Example usage of display options:
 Dependencies
 ------------
 React Infinite Calendar has very few dependencies. It relies on [`react-tiny-virtual-list`](https://github.com/clauderic/react-tiny-virtual-list) for virtualization and [`date-fns`](https://github.com/date-fns/date-fns) for handling date manipulation. It also uses [recompose](https://github.com/acdlite/recompose) for extending the default functionality. It also has the following peerDependencies: [`react`](https://www.npmjs.com/package/react), and [`react-transition-group`](https://www.npmjs.com/package/react-transition-group).
-
-Reporting Issues
-----------------
-If you find an [issue](https://github.com/clauderic/react-infinite-calendar/issues), please report it along with any relevant details to reproduce it. The easiest way to do so is to [fork this sandbox on CodeSandbox](https://codesandbox.io/s/zroj1zp7v4).
-
-Contributions
-------------
-Yes please! Feature requests / pull requests are welcome. [Learn how to contribute](https://github.com/clauderic/react-infinite-calendar/blob/master/CONTRIBUTING.md)
-
-Have a suggestion or just want to say hello? Come chat on [Gitter](https://gitter.im/clauderic/react-infinite-calendar)!
-
-License
----------
-*react-infinite-calendar* is available under the MIT License.
